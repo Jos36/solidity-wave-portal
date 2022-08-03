@@ -13,3 +13,4 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+![image](https://user-images.githubusercontent.com/71936378/182507560-398c6d11-b079-48f9-b55e-d1e3076472db.png)
